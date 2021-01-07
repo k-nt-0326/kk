@@ -1,0 +1,49 @@
+.center_items img {
+    width: 15%;
+    margin: 3%;
+}
+.center_items {
+    width: 100%;
+}
+.center_items2 img{
+    width: 15%;
+    margin: 3%;
+}
+.bunnrui{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ghostwhite;
+    background-size: 100%;
+}
+header img{
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    margin-right: 5%;
+    width: 250px;
+    
+}
+.kennsaku{
+    margin-left: 1%;
+    
+    margin-right: 1%;
+}
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0%;
+    background-image: url(hachikura/aa5aaebf.jpg);
+    background-size: 100%;
+}
+footer{
+    background-color: ghostwhite;
+}
