@@ -45,6 +45,24 @@ body {
     background-size: 100%;
 }
 footer{
-    
     background-color: ghostwhite;
+    width: 100%;
+    position: fixed;
+    bottom: 0;   
+}
+.footer1{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    align-items: center;
+}
+.footer2{
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+    align-items: center;
+}
+.footer3{
+    align-items: right;
+
 }
