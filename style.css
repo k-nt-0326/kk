@@ -60,6 +60,21 @@ footer div{
     display: flex;
     flex-direction: column;
 }
+.footer_item1{
+    width: 33%;
+    display: flex;
+    justify-content: center; 
+}
+.img_logo_half_top{
+    width: 200px;
+    height: auto;
+    display: flex;
+    margin-left: 20px;   
+}
+/* .footer_item1 div {
+    width: 100%;
+    height: auto;
+} */
 .footer1{
     font-size: 20px;
     display: flex;
